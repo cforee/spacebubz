@@ -12,6 +12,6 @@ A little JS game where you blow up space bubbles.  Inspired by the game "Astrobl
 
 An extensive array of gameplay options:
 
-Left/right arrow keys:   move
-Spacebar:                shoot stuff
+    Left/right arrow keys:   move
+    Spacebar:                shoot stuff
 
