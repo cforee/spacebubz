@@ -8,4 +8,10 @@ SpaceBubz
     /____  >|   __(____  /\___  >___  >___  /____/|___  /_____ \
          \/ |__|       \/     \/    \/    \/          \/      \/
 
-A little JS game where you blow up space bubbles.  Inspired by the game "Astroblast", but primarily this was an experiment in collision detection in Javascript.
+A little JS game where you blow up space bubbles.  Inspired by the game "Astroblast".  Primarily this was an experiment in collision detection in Javascript.
+
+An extensive array of gameplay options:
+
+Left/right arrow keys:   move
+Spacebar:                shoot stuff
+
