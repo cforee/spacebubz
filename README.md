@@ -15,3 +15,4 @@ An extensive array of gameplay options:
     Left/right arrow keys:   move
     Spacebar:                shoot stuff
 
+That's it.
